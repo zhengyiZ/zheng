@@ -24,7 +24,7 @@
 ![预览效果图](src/resources/images/zheng-cms-theme-m2.png)
 
 # License
-  MIT
+  //修改的一些代码,解决线上iss23问题;
   主线分支在支线分支之后做了一些更新;
   测试一下git的代码提交~~~
   再次添加一些文字~~~
